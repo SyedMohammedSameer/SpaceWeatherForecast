@@ -1,5 +1,4 @@
 # Space Weather Forecast using GNN
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/SyedMohammedSameer/SpaceWeatherForecast)
 
 This project utilizes a Graph Neural Network (GNN) to forecast space weather, specifically predicting solar wind speed based on solar imagery. The model processes images, likely from the Solar Dynamics Observatory (SDO), by interpreting them as graphs where pixels are nodes. The relationships between these nodes are then learned to predict corresponding solar wind measurements.
 
